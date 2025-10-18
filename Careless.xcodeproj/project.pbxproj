@@ -1,0 +1,625 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C05707FB2E59518A00B55088 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = C05707FA2E59518A00B55088 /* Kingfisher */; };
+		C05708A12E5D03F400B55088 /* SkeletonView in Frameworks */ = {isa = PBXBuildFile; productRef = C05708A02E5D03F400B55088 /* SkeletonView */; };
+		C07C56582E6A429C0018A067 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C07C56572E6A429C0018A067 /* CoreMotion.framework */; };
+		C0AB78FD2E4D5C2E008045DF /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = C0AB78FC2E4D5C2E008045DF /* Supabase */; };
+		C0DDC8932E6900CB00854642 /* CarelessWatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = C0DDC8892E6900C900854642 /* CarelessWatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C0DDC8912E6900CB00854642 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C0B61E822E428E9900A00E7E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C0DDC8882E6900C900854642;
+			remoteInfo = "FitCatWatch Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C0DDC8972E6900CB00854642 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				C0DDC8932E6900CB00854642 /* CarelessWatch Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C05708A22E5D240B00B55088 /* FitCat.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FitCat.entitlements; sourceTree = "<group>"; };
+		C07C56572E6A429C0018A067 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS11.5.sdk/System/Library/Frameworks/CoreMotion.framework; sourceTree = DEVELOPER_DIR; };
+		C0B61E8A2E428E9900A00E7E /* Careless.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Careless.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C0DDC8892E6900C900854642 /* CarelessWatch Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CarelessWatch Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		C07C564F2E6A3D4D0018A067 /* Exceptions for "FitCatWatch Watch App" folder in "Careless" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				WatchConnectivityManager.swift,
+			);
+			target = C0B61E892E428E9900A00E7E /* Careless */;
+		};
+		C07C56562E6A40980018A067 /* Exceptions for "massive of uiview-XIBs from cell" folder in "CarelessWatch Watch App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Caregiver.swift,
+			);
+			target = C0DDC8882E6900C900854642 /* CarelessWatch Watch App */;
+		};
+		C0B61E9F2E428E9B00A00E7E /* Exceptions for "massive of uiview-XIBs from cell" folder in "Careless" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = C0B61E892E428E9900A00E7E /* Careless */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		C0B61E8C2E428E9900A00E7E /* massive of uiview-XIBs from cell */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				C0B61E9F2E428E9B00A00E7E /* Exceptions for "massive of uiview-XIBs from cell" folder in "Careless" target */,
+				C07C56562E6A40980018A067 /* Exceptions for "massive of uiview-XIBs from cell" folder in "CarelessWatch Watch App" target */,
+			);
+			path = "massive of uiview-XIBs from cell";
+			sourceTree = "<group>";
+		};
+		C0DDC88A2E6900C900854642 /* FitCatWatch Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				C07C564F2E6A3D4D0018A067 /* Exceptions for "FitCatWatch Watch App" folder in "Careless" target */,
+			);
+			path = "FitCatWatch Watch App";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C0B61E872E428E9900A00E7E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C05707FB2E59518A00B55088 /* Kingfisher in Frameworks */,
+				C05708A12E5D03F400B55088 /* SkeletonView in Frameworks */,
+				C0AB78FD2E4D5C2E008045DF /* Supabase in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C0DDC8862E6900C900854642 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C07C56582E6A429C0018A067 /* CoreMotion.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C0AB78FB2E4D5C2E008045DF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C07C56572E6A429C0018A067 /* CoreMotion.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C0B61E812E428E9900A00E7E = {
+			isa = PBXGroup;
+			children = (
+				C05708A22E5D240B00B55088 /* FitCat.entitlements */,
+				C0B61E8C2E428E9900A00E7E /* massive of uiview-XIBs from cell */,
+				C0DDC88A2E6900C900854642 /* FitCatWatch Watch App */,
+				C0AB78FB2E4D5C2E008045DF /* Frameworks */,
+				C0B61E8B2E428E9900A00E7E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C0B61E8B2E428E9900A00E7E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0B61E8A2E428E9900A00E7E /* Careless.app */,
+				C0DDC8892E6900C900854642 /* CarelessWatch Watch App.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C0B61E892E428E9900A00E7E /* Careless */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C0B61EA02E428E9B00A00E7E /* Build configuration list for PBXNativeTarget "Careless" */;
+			buildPhases = (
+				C0B61E862E428E9900A00E7E /* Sources */,
+				C0B61E872E428E9900A00E7E /* Frameworks */,
+				C0B61E882E428E9900A00E7E /* Resources */,
+				C0DDC8972E6900CB00854642 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C0DDC8922E6900CB00854642 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C0B61E8C2E428E9900A00E7E /* massive of uiview-XIBs from cell */,
+			);
+			name = Careless;
+			packageProductDependencies = (
+				C0AB78FC2E4D5C2E008045DF /* Supabase */,
+				C05707FA2E59518A00B55088 /* Kingfisher */,
+				C05708A02E5D03F400B55088 /* SkeletonView */,
+			);
+			productName = "massive of uiview-XIBs from cell";
+			productReference = C0B61E8A2E428E9900A00E7E /* Careless.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C0DDC8882E6900C900854642 /* CarelessWatch Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C0DDC8942E6900CB00854642 /* Build configuration list for PBXNativeTarget "CarelessWatch Watch App" */;
+			buildPhases = (
+				C0DDC8852E6900C900854642 /* Sources */,
+				C0DDC8862E6900C900854642 /* Frameworks */,
+				C0DDC8872E6900C900854642 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C0DDC88A2E6900C900854642 /* FitCatWatch Watch App */,
+			);
+			name = "CarelessWatch Watch App";
+			packageProductDependencies = (
+			);
+			productName = "FitCatWatch Watch App";
+			productReference = C0DDC8892E6900C900854642 /* CarelessWatch Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C0B61E822E428E9900A00E7E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					C0B61E892E428E9900A00E7E = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					C0DDC8882E6900C900854642 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+				};
+			};
+			buildConfigurationList = C0B61E852E428E9900A00E7E /* Build configuration list for PBXProject "Careless" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C0B61E812E428E9900A00E7E;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				C0AB78F62E4D544A008045DF /* XCRemoteSwiftPackageReference "supabase-swift" */,
+				C05707F92E59518A00B55088 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				C057089F2E5D03F400B55088 /* XCRemoteSwiftPackageReference "SkeletonView" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C0B61E8B2E428E9900A00E7E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C0B61E892E428E9900A00E7E /* Careless */,
+				C0DDC8882E6900C900854642 /* CarelessWatch Watch App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C0B61E882E428E9900A00E7E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C0DDC8872E6900C900854642 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C0B61E862E428E9900A00E7E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C0DDC8852E6900C900854642 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C0DDC8922E6900CB00854642 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C0DDC8882E6900C900854642 /* CarelessWatch Watch App */;
+			targetProxy = C0DDC8912E6900CB00854642 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C0B61EA12E428E9B00A00E7E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FitCat.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V5H6D6M262;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "massive of uiview-XIBs from cell/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "To scan food items and barcodes to get nutrition information";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app saves your workout data, such as calories burned and workout duration, to the Health app to help you track your progress";
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app uses your motion data to detect potential falls and alert your designated caregiver in an emergency.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artemmenshikov.careless;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		C0B61EA22E428E9B00A00E7E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FitCat.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V5H6D6M262;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "massive of uiview-XIBs from cell/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "To scan food items and barcodes to get nutrition information";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app saves your workout data, such as calories burned and workout duration, to the Health app to help you track your progress";
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app uses your motion data to detect potential falls and alert your designated caregiver in an emergency.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artemmenshikov.careless;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		C0B61EA32E428E9B00A00E7E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = FatCat;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C0B61EA42E428E9B00A00E7E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = FatCat;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C0DDC8952E6900CB00854642 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "FitCatWatch Watch App/FitCatWatch Watch App.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V5H6D6M262;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FitCatWatch;
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app uses motion data to detect falls and alert the caregiver.";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.artemmenshikov.careless;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artemmenshikov.careless.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.5;
+			};
+			name = Debug;
+		};
+		C0DDC8962E6900CB00854642 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "FitCatWatch Watch App/FitCatWatch Watch App.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V5H6D6M262;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FitCatWatch;
+				INFOPLIST_KEY_NSMotionUsageDescription = "This app uses motion data to detect falls and alert the caregiver.";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.artemmenshikov.careless;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.artemmenshikov.careless.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C0B61E852E428E9900A00E7E /* Build configuration list for PBXProject "Careless" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0B61EA32E428E9B00A00E7E /* Debug */,
+				C0B61EA42E428E9B00A00E7E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C0B61EA02E428E9B00A00E7E /* Build configuration list for PBXNativeTarget "Careless" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0B61EA12E428E9B00A00E7E /* Debug */,
+				C0B61EA22E428E9B00A00E7E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C0DDC8942E6900CB00854642 /* Build configuration list for PBXNativeTarget "CarelessWatch Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C0DDC8952E6900CB00854642 /* Debug */,
+				C0DDC8962E6900CB00854642 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C05707F92E59518A00B55088 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.5.0;
+			};
+		};
+		C057089F2E5D03F400B55088 /* XCRemoteSwiftPackageReference "SkeletonView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Juanpe/SkeletonView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.31.0;
+			};
+		};
+		C0AB78F62E4D544A008045DF /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase/supabase-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C05707FA2E59518A00B55088 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C05707F92E59518A00B55088 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		C05708A02E5D03F400B55088 /* SkeletonView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C057089F2E5D03F400B55088 /* XCRemoteSwiftPackageReference "SkeletonView" */;
+			productName = SkeletonView;
+		};
+		C0AB78FC2E4D5C2E008045DF /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C0AB78F62E4D544A008045DF /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = C0B61E822E428E9900A00E7E /* Project object */;
+}

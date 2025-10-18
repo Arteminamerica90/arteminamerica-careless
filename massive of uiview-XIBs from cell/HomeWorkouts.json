@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 1,
+    "name": "hand rotation",
+    "description": "warming up",
+    "muscle_group": ["arms"],
+    "difficulty": 1,
+    "image_name": "hand rotation.png",
+    "video_filename": " hand rotation.mp4",
+    "equipment": null
+  },
+  {
+    "id": 3,
+    "name": "circular rotations in the ankle joint",
+    "description": " warming up",
+    "muscle_group": ["feet", "calves"],
+    "difficulty": 1,
+    "image_name": "circular rotations in the ankle joint.png",
+    "video_filename": "circular rotations in the ankle joint.mp4",
+    "equipment": null
+  },
+  {
+    "id": 4,
+    "name": "side lunges with arms and legs spread",
+    "description": "advanced",
+    "muscle_group": ["coordination", "legs", "arms", "sholder"],
+    "difficulty": 2,
+    "image_name": "side lunges with arms and legs spread.png",
+    "video_filename": "side lunges with arms and legs spread.mp4",
+    "equipment": null
+  },
+  {
+    "id": 5,
+    "name": "circular rotations of the body",
+    "description": "beginer",
+    "muscle_group": ["coordination", "abs", "back", "obliques"],
+    "difficulty": 2,
+    "image_name": "circular rotations of the body.png",
+    "video_filename": "circular rotations of the body.mp4",
+    "equipment": null
+  },
+  {
+    "id": 6,
+    "name": "complex exercise with a high hip lift and a back shin kick",
+    "description": "advanced",
+    "muscle_group": ["coordination", "legs", "arms", "calves", "thighs", "lower body", "full body"],
+    "difficulty": 3,
+    "image_name": "complex exercise with a high hip lift and a back shin kick.png",
+    "video_filename": "complex exercise with a high hip lift and a back shin kick.mp4",
+    "equipment": null
+  },
+  {
+    "id": 7,
+    "name": "crunches",
+    "description": "beginner",
+    "muscle_group": ["abs", "obliques"],
+    "difficulty": 2,
+    "image_name": "crunches.png",
+    "video_filename": "crunches.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 8,
+    "name": "dancing side press",
+    "description": "advanced",
+    "muscle_group": ["coordination", "abs", "arms", "obliques"],
+    "difficulty": 2,
+    "image_name": "dancing side press.png",
+    "video_filename": "dancing side press.mp4",
+    "equipment": null
+  },
+  {
+    "id": 10,
+    "name": "dynamic plie squats with different arm movements",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "abs", "arms", "triceps", "full body", "lower body", "upper body", "core"],
+    "difficulty": 3,
+    "image_name": "dynamic plie squats with different arm movements.png",
+    "video_filename": "dynamic plie squats with different arm movements.mp4",
+    "equipment": null
+  },
+  {
+    "id": 11,
+    "name": "dynamic reverse lunges with knee lift",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "lower body", "core", "full body"],
+    "difficulty": 3,
+    "image_name": "dynamic reverse lunges with knee lift.png",
+    "video_filename": "dynamic reverse lunges with knee lift.mp4",
+    "equipment": null
+  },
+  {
+    "id": 12,
+    "name": "dynamic stretching standing pigeon",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "lower body", "core", "full body"],
+    "difficulty": 3,
+    "image_name": "dynamic stretching standing pigeon.png",
+    "video_filename": "dynamic stretching standing pigeon.mp4",
+    "equipment": null
+  },
+  {
+    "id": 15,
+    "name": "high knee raise with arm movement",
+    "description": "average",
+    "muscle_group": ["legs", "arms", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "high knee raise with arm movement.png",
+    "video_filename": "high knee raise with arm movement.mp4",
+    "equipment": null
+  },
+  {
+    "id": 16,
+    "name": "jumping with punches",
+    "description": "average",
+    "muscle_group": ["arms", "calves", "thighs", "lower body"],
+    "difficulty": 3,
+    "image_name": "jumping with punches.png",
+    "video_filename": "jumping with punches.mp4",
+    "equipment": null
+  },
+  {
+    "id": 17,
+    "name": "leg swings",
+    "description": "advanced",
+    "muscle_group": ["coordination", "legs", "abs", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "leg swings.png",
+    "video_filename": "leg swings.mp4",
+    "equipment": null
+  },
+  {
+    "id": 18,
+    "name": "lunges",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "glutes", "full body", "lower body", "core"],
+    "difficulty": 3,
+    "image_name": "lunges.png",
+    "video_filename": "lunges.mp4",
+    "equipment": null
+  },
+  {
+    "id": 19,
+    "name": "Plank with alternating arm raises",
+    "description": "average",
+    "muscle_group": ["triceps", "calves", "thighs", "back", "glutes"],
+    "difficulty": 3,
+    "image_name": "Plank with alternating arm raises.png",
+    "video_filename": "Plank with alternating arm raises.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 20,
+    "name": "plank with pelvic drop",
+    "description": "advanced",
+    "muscle_group": ["pelvis", "coordination", "back", "abs", "calves", "thighs", "glutes"],
+    "difficulty": 3,
+    "image_name": "plank with pelvic drop.png",
+    "video_filename": "plank with pelvic drop.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 21,
+    "name": "plie squat with twist to the knee",
+    "description": "advaced",
+    "muscle_group": ["coordination", "abs", "calves", "thighs", "obliques", "full body", "lower body", "core"],
+    "difficulty": 4,
+    "image_name": "plie squat with twist to the knee.png",
+    "video_filename": "plie squat with twist to the knee.mp4",
+    "equipment": null
+  },
+  {
+    "id": 22,
+    "name": "plie squats with arm raises",
+    "description": "advanced",
+    "muscle_group": ["coordination", "abs", "calves", "thighs", "core", "glutes", "full body", "lower body"],
+    "difficulty": 3,
+    "image_name": "plie squats with arm raises.png",
+    "video_filename": "plie squats with arm raises.mp4",
+    "equipment": null
+  },
+  {
+    "id": 23,
+    "name": "shadowboxing",
+    "description": "advanced",
+    "muscle_group": ["coordination", "abs", "calves", "thighs", "obliques", "full body", "upper body", "lower body", "core"],
+    "difficulty": 3,
+    "image_name": "shadowboxing.png",
+    "video_filename": "shadowboxing.mp4",
+    "equipment": null
+  },
+  {
+    "id": 24,
+    "name": "standing hip rotations",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "obliques"],
+    "difficulty": 3,
+    "image_name": "standing hip rotations.png",
+    "video_filename": "standing hip rotations.mp4",
+    "equipment": null
+  },
+  {
+    "id": 27,
+    "name": "torso circular movements",
+    "description": "average",
+    "muscle_group": ["coordination", "abs", "back", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "torso circular movements.png",
+    "video_filename": "torso circular movements.mp4",
+    "equipment": null
+  },
+  {
+    "id": 28,
+    "name": "wide stance mill",
+    "description": "average",
+    "muscle_group": ["coordination", "arms", "obliques", "back", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "wide stance mill.png",
+    "video_filename": "wide stance mill.mp4",
+    "equipment": null
+  },
+  {
+    "id": 29,
+    "name": "body turns with arm swings",
+    "description": "beginner",
+    "muscle_group": ["coordination", "calves", "core", "dance"],
+    "difficulty": 1,
+    "image_name": "body turns with arm swings.png",
+    "video_filename": "body turns with arm swings.mp4",
+    "equipment": null
+  },
+  {
+    "id": 30,
+    "name": "curtsy lunge",
+    "description": "average",
+    "muscle_group": ["coordination", "calves", "thighs", "core"],
+    "difficulty": 3,
+    "image_name": "curtsy lunge.png",
+    "video_filename": "curtsy lunge.mp4",
+    "equipment": null
+  },
+  {
+    "id": 31,
+    "name": "forearm back leg kicks",
+    "description": "advanced",
+    "muscle_group": ["coordination", "arms", "back", "calves", "thighs", "plank"],
+    "difficulty": 3,
+    "image_name": "forearm back leg kicks.png",
+    "video_filename": "forearm back leg kicks.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 32,
+    "name": "front thigh stretch",
+    "description": "beginer",
+    "muscle_group": ["coordination", "plank"],
+    "difficulty": 1,
+    "image_name": "front thigh stretch.png",
+    "video_filename": "front thigh stretch.mp4",
+    "equipment": null
+  },
+  {
+    "id": 33,
+    "name": "jumping with arms and legs spread",
+    "description": "average",
+    "muscle_group": ["coordination", "arms", "back", "calves", "thighs", "core", "full body", "lower body"],
+    "difficulty": 3,
+    "image_name": "jumping with arms and legs spread.png",
+    "video_filename": "jumping with arms and legs spread.mp4",
+    "equipment": null
+  },
+  {
+    "id": 34,
+    "name": "kneeling plank with arms raised",
+    "description": "beginner",
+    "muscle_group": ["arms", "triceps", "upper body", "plank"],
+    "difficulty": 1,
+    "image_name": "kneeling plank with arms raised.png",
+    "video_filename": "kneeling plank with arms raised.mp4",
+    "equipment": null
+  },
+  {
+    "id": 35,
+    "name": "left-right transitions with spreading arms and legs",
+    "description": "beginner",
+    "muscle_group": ["arms", "calves", "thighs", "lower body"],
+    "difficulty": 2,
+    "image_name": "left-right transitions with spreading arms and legs.png",
+    "video_filename": "left-right transitions with spreading arms and legs.mp4",
+    "equipment": null
+  },
+  {
+    "id": 36,
+    "name": "plie squat",
+    "description": "advantage",
+    "muscle_group": ["arms", "calves", "thighs", "glutes", "lower body"],
+    "difficulty": 3,
+    "image_name": "plie squat.png",
+    "video_filename": "plie squat.mp4",
+    "equipment": null
+  },
+  {
+    "id": 37,
+    "name": "reverse plank steps",
+    "description": "advantage",
+    "muscle_group": ["abs", "arms", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "reverse plank steps.png",
+    "video_filename": "reverse plank steps.mp4",
+    "equipment": null
+  },
+  {
+    "id": 38,
+    "name": "rotation in the shoulder joints",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms"],
+    "difficulty": 1,
+    "image_name": "rotation in the shoulder joints.png",
+    "video_filename": "rotation in the shoulder joints.mp4",
+    "equipment": null
+  },
+  {
+    "id": 39,
+    "name": "squat with an overhead reach",
+    "description": "advanced",
+    "muscle_group": ["abs", "arms", "calves", "thighs", "glutes", "core", "full body", "lower body", "upper body"],
+    "difficulty": 3,
+    "image_name": "squat with an overhead reach.png",
+    "video_filename": "squat with an overhead reach.mp4",
+    "equipment": null
+  },
+  {
+    "id": 40,
+    "name": "squats with simultaneous spreading of arms to the sides",
+    "description": "advanced",
+    "muscle_group": ["legs", "arms", "calves", "thighs", "glutes", "core", "lower body"],
+    "difficulty": 4,
+    "image_name": "squats with simultaneous spreading of arms to the sides.png",
+    "video_filename": "squats with simultaneous spreading of arms to the sides.mp4",
+    "equipment": null
+  },
+  {
+    "id": 41,
+    "name": "standing calf raises",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs", "glutes", "feet"],
+    "difficulty": 2,
+    "image_name": "standing calf raises.png",
+    "video_filename": "standing calf raises.mp4",
+    "equipment": null
+  },
+  {
+    "id": 42,
+    "name": "standing crunches with elbow and knee touch",
+    "description": "advanced",
+    "muscle_group": ["coordination", "oblques", "arms", "back", "calves", "thighs", "glutes", "full body"],
+    "difficulty": 3,
+    "image_name": "standing crunches with elbow and knee touch.png",
+    "video_filename": "standing crunches with elbow and knee touch.mp4",
+    "equipment": null
+  },
+  {
+    "id": 43,
+    "name": "standing leg abduction",
+    "description": "standing leg abduction",
+    "muscle_group": ["feet"],
+    "difficulty": 1,
+    "image_name": "standing leg abduction.png",
+    "video_filename": "standing leg abduction.mp4",
+    "equipment": null
+  },
+  {
+    "id": 44,
+    "name": "standing torso rotation",
+    "description": "average",
+    "muscle_group": ["arms", "core", "obliques"],
+    "difficulty": 1,
+    "image_name": "standing torso rotation.png",
+    "video_filename": "standing torso rotation.mp4",
+    "equipment": null
+  },
+  {
+    "id": 45,
+    "name": "standing torso twists",
+    "description": "beginner",
+    "muscle_group": ["arms", "shoulders"],
+    "difficulty": 1,
+    "image_name": "standing torso twists.png",
+    "video_filename": "standing torso twists.mp4",
+    "equipment": null
+  },
+  {
+    "id": 46,
+    "name": "swimmer",
+    "description": "beginner",
+    "muscle_group": ["arms", "shoulders"],
+    "difficulty": 1,
+    "image_name": "swimmer.png",
+    "video_filename": "swimmer.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 48,
+    "name": " forward lunges",
+    "description": "advantage",
+    "muscle_group": ["calves", "thighs", "glutes", "obliques", "lower body"],
+    "difficulty": 3,
+    "image_name": " forward lunges.png",
+    "video_filename": " forward lunges.mp4",
+    "equipment": null
+  },
+  {
+    "id": 49,
+    "name": " leg lift to back thigh",
+    "description": "beginner",
+    "muscle_group": ["calves"],
+    "difficulty": 1,
+    "image_name": " leg lift to back thigh.png",
+    "video_filename": " leg lift to back thigh.mp4",
+    "equipment": null
+  },
+  {
+    "id": 50,
+    "name": " rotation of brushes",
+    "description": "beginner",
+    "muscle_group": ["brushes"],
+    "difficulty": 1,
+    "image_name": " side elbow swings.png",
+    "video_filename": " side elbow swings.mp4",
+    "equipment": null
+  },
+  {
+    "id": 51,
+    "name": "abdominal muscles",
+    "description": "Average",
+    "muscle_group": ["abs", "glutes"],
+    "difficulty": 2,
+    "image_name": "abdominal muscles.png",
+    "video_filename": "abdominal muscles.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 52,
+    "name": "alternate knee pull-ups with elbow support",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs", "lower body"],
+    "difficulty": 1,
+    "image_name": "alternate knee pull-ups with elbow support.png",
+    "video_filename": "alternate knee pull-ups with elbow support.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 53,
+    "name": "Alternating leg curls in the air",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "lower body"],
+    "difficulty": 2,
+    "image_name": "Alternating leg curls in the air.png",
+    "video_filename": "Alternating leg curls in the air.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 54,
+    "name": "Back leg kicks while standing on all fours",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "glutes"],
+    "difficulty": 2,
+    "image_name": "Back leg kicks while standing on all fours.png",
+    "video_filename": "Back leg kicks while standing on all fours.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 55,
+    "name": "bending the body to the side with raising the arm",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms", "glutes"],
+    "difficulty": 2,
+    "image_name": "bending the body to the side with raising the arm.png",
+    "video_filename": "bending the body to the side with raising the arm.mp4\n",
+    "equipment": null
+  },
+  {
+    "id": 56,
+    "name": "bending to the sides",
+    "description": "beginner",
+    "muscle_group": ["pelvis", "abs", "back", "upper body"],
+    "difficulty": 1,
+    "image_name": "bending to the sides.png",
+    "video_filename": "bending to the sides.mp4",
+    "equipment": null
+  },
+  {
+    "id": 57,
+    "name": "bicycle crunch",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "triceps", "abs", "glutes", "obliques", "lower body"],
+    "difficulty": 2,
+    "image_name": "bicycle crunch.png",
+    "video_filename": "bicycle crunch.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 58,
+    "name": "bicycle leaning on elbows",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs", "triceps", "abs", "glutes", "obliques", "lower body"],
+    "difficulty": 1,
+    "image_name": "bicycle leaning on elbows.png",
+    "video_filename": "bicycle leaning on elbows.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 59,
+    "name": "Bicycle lying down",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs", "abs", "glutes", "obliques", "lower body"],
+    "difficulty": 2,
+    "image_name": "Bicycle lying down.png",
+    "video_filename": "Bicycle lying down.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 60,
+    "name": "body turns with arms extended",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms", "back", "obliques"],
+    "difficulty": 2,
+    "image_name": "body turns with arms extended.png",
+    "video_filename": "body turns with arms extended.mp4",
+    "equipment": null
+  },
+  {
+    "id": 61,
+    "name": "body turns with hands behind head",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms", "obliques"],
+    "difficulty": 1,
+    "image_name": "body turns with hands behind head.png",
+    "video_filename": "body turns with hands behind head.mp4",
+    "equipment": null
+  },
+  {
+    "id": 63,
+    "name": "body turns with straight arms",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms", "obliques"],
+    "difficulty": 1,
+    "image_name": "body turns with straight arms.png",
+    "video_filename": "body turns with straight arms.mp4",
+    "equipment": null
+  },
+  {
+    "id": 64,
+    "name": "bodyweight squats",
+    "description": "average",
+    "muscle_group": ["glutes", "calves", "thighs", "abs", "lower body"],
+    "difficulty": 3,
+    "image_name": "bodyweight squats.png",
+    "video_filename": "bodyweight squats.mp4",
+    "equipment": null
+  },
+  {
+    "id": 65,
+    "name": "circular leg swings lying down",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "abs", "obliques", "lower body"],
+    "difficulty": 2,
+    "image_name": "circular leg swings lying down.png",
+    "video_filename": "circular leg swings lying down.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 66,
+    "name": "circular movements of the body",
+    "description": "average",
+    "muscle_group": ["obliques", "abs", "arms"],
+    "difficulty": 1,
+    "image_name": "circular movements of the body.png",
+    "video_filename": "circular movements of the body.mp4",
+    "equipment": null
+  },
+  {
+    "id": 67,
+    "name": "circular rotations of the arms on the shoulders",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms"],
+    "difficulty": 1,
+    "image_name": "circular rotations of the arms on the shoulders.png",
+    "video_filename": "circular rotations of the arms on the shoulders.mp4",
+    "equipment": null
+  },
+  {
+    "id": 68,
+    "name": "circular rotations of the shoulders",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms"],
+    "difficulty": 1,
+    "image_name": "circular rotations of the shoulders.png",
+    "video_filename": "circular rotations of the shoulders.mp4",
+    "equipment": null
+  },
+  {
+    "id": 69,
+    "name": "circular rotations with hands",
+    "description": "beginner",
+    "muscle_group": ["shoulders", "arms"],
+    "difficulty": 1,
+    "image_name": "circular rotations with hands.png",
+    "video_filename": "circular rotations with hands.mp4",
+    "equipment": null
+  },
+  {
+    "id": 70,
+    "name": "Dynamic steps to the side",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "arms", "calves", "thighs", "core", "full body", "upper body", "lower body"],
+    "difficulty": 3,
+    "image_name": "Dynamic steps to the side.png",
+    "video_filename": "Dynamic steps to the side.mp4",
+    "equipment": null
+  },
+  {
+    "id": 71,
+    "name": "easy abdominal exercise",
+    "description": "beginner",
+    "muscle_group": ["abs"],
+    "difficulty": 1,
+    "image_name": "easy abdominal exercise.png",
+    "video_filename": "easy abdominal exercise.mp4",
+    "equipment": null
+  },
+  {
+    "id": 72,
+    "name": "Elbow rest bike",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs", "abs"],
+    "difficulty": 1,
+    "image_name": "Elbow rest bike.png",
+    "video_filename": "Elbow rest bike.mp4",
+    "equipment": null
+  },
+  {
+    "id": 73,
+    "name": "elbows at shoulder height standing twists",
+    "description": "beginner",
+    "muscle_group": ["shoulder", "arms", "obliques"],
+    "difficulty": 1,
+    "image_name": "elbows at shoulder height standing twists.png",
+    "video_filename": "elbows at shoulder height standing twists.mp4",
+    "equipment": null
+  },
+  {
+    "id": 74,
+    "name": "Front leg swings",
+    "description": "begiiner",
+    "muscle_group": ["calves", "thighs", "abs", "glutes", "lower body"],
+    "difficulty": 1,
+    "image_name": "Front leg swings.png",
+    "video_filename": "Front leg swings.mp4",
+    "equipment": null
+  },
+  {
+    "id": 75,
+    "name": "gluteal bridge",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "glutes"],
+    "difficulty": 2,
+    "image_name": "gluteal bridge.png",
+    "video_filename": "gluteal bridge.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 76,
+    "name": "half-bike twists",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "lower body", "glutes"],
+    "difficulty": 2,
+    "image_name": "half-bike twists.png",
+    "video_filename": "half-bike twists.mp4",
+    "equipment": null
+  },
+  {
+    "id": 77,
+    "name": "half-sitting pull-ups to the toes",
+    "description": "average",
+    "muscle_group": ["stretching", "abs", "arms"],
+    "difficulty": 2,
+    "image_name": "half-sitting pull-ups to the toes.png",
+    "video_filename": "half-sitting pull-ups to the toes.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 78,
+    "name": "head tilts",
+    "description": "beginner",
+    "muscle_group": ["neck"],
+    "difficulty": 1,
+    "image_name": "head tilts.png",
+    "video_filename": "head tilts.mp4",
+    "equipment": null
+  },
+  {
+    "id": 79,
+    "name": "isometric abs hold",
+    "description": "beginner",
+    "muscle_group": ["abs", "neck"],
+    "difficulty": 1,
+    "image_name": "isometric abs hold.png",
+    "video_filename": "isometric abs hold.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 80,
+    "name": "jumps with body turns",
+    "description": "average",
+    "muscle_group": ["coordination", "arms", "calves", "thighs", "core", "full body"],
+    "difficulty": 2,
+    "image_name": "jumps with body turns.png",
+    "video_filename": "jumps with body turns.mp4",
+    "equipment": null
+  },
+  {
+    "id": 81,
+    "name": "knee girth standing",
+    "description": "beginner",
+    "muscle_group": ["coordination", "calves", "thighs", "lower body"],
+    "difficulty": 1,
+    "image_name": "knee girth standing.png",
+    "video_filename": "knee girth standing.mp4",
+    "equipment": null
+  },
+  {
+    "id": 82,
+    "name": "knee raises in place",
+    "description": "beginner",
+    "muscle_group": ["coordination", "calves", "thighs", "lower body"],
+    "difficulty": 1,
+    "image_name": "knee raises in place.png",
+    "video_filename": "knee raises in place.mp4",
+    "equipment": null
+  },
+  {
+    "id": 83,
+    "name": "knee raises",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "glutes", "lower body"],
+    "difficulty": 2,
+    "image_name": "knee raises.png",
+    "video_filename": "knee raises.mp4",
+    "equipment": null
+  },
+  {
+    "id": 84,
+    "name": "left-right head turns",
+    "description": "beginner",
+    "muscle_group": ["neck"],
+    "difficulty": 1,
+    "image_name": "left-right head turns.png",
+    "video_filename": "left-right head turns.mp4",
+    "equipment": null
+  },
+  {
+    "id": 85,
+    "name": "lunges to the right and left",
+    "description": "average",
+    "muscle_group": ["stretching", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "lunges to the right and left.png",
+    "video_filename": "lunges to the right and left.mp4",
+    "equipment": null
+  },
+  {
+    "id": 86,
+    "name": "lying crunches",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "lower body", "glutes", "obliques"],
+    "difficulty": 2,
+    "image_name": "lying crunches.png",
+    "video_filename": "lying crunches.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 87,
+    "name": "Lying down touching the floor with your toes",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "lower body", "glutes"],
+    "difficulty": 3,
+    "image_name": "Lying down touching the floor with your toes.png",
+    "video_filename": "Lying down touching the floor with your toes.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 88,
+    "name": "Lying knee tucks",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "lower body", "glutes"],
+    "difficulty": 3,
+    "image_name": "Lying knee tucks.png",
+    "video_filename": "Lying knee tucks.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 89,
+    "name": "lying knee twists",
+    "description": "beginner",
+    "muscle_group": ["abs", "calves", "thighs", "glutes", "lower body", "obliques"],
+    "difficulty": 1,
+    "image_name": "lying knee twists.png",
+    "video_filename": "lying knee twists.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 90,
+    "name": "lying on elbows leg swings",
+    "description": "beginner",
+    "muscle_group": ["abs", "calves", "thighs", "glutes", "lower body"],
+    "difficulty": 1,
+    "image_name": "lying on elbows, leg swings.png",
+    "video_filename": "lying on elbows, leg swings.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 91,
+    "name": "Lying Scissor Kicks",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "glutes", "lower body"],
+    "difficulty": 2,
+    "image_name": "Lying Scissor Kicks.png",
+    "video_filename": "Lying Scissor Kicks.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 92,
+    "name": "lying scissors",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs", "glutes", "lower body"],
+    "difficulty": 2,
+    "image_name": "lying scissors.png",
+    "video_filename": "lying scissors.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 93,
+    "name": "march with high hip raises and arm extensions",
+    "description": "average",
+    "muscle_group": ["arms", "calves", "thighs", "upper body", "lower body"],
+    "difficulty": 2,
+    "image_name": "march with high hip raises and arm extensions.png",
+    "video_filename": "march with high hip raises and arm extensions.mp4",
+    "equipment": null
+  },
+  {
+    "id": 94,
+    "name": "Mill",
+    "description": "beginner",
+    "muscle_group": ["arms", "shoulder", "upper body", "core"],
+    "difficulty": 2,
+    "image_name": "Mill.png",
+    "video_filename": "Mill.mp4",
+    "equipment": null
+  },
+  {
+    "id": 95,
+    "name": "neat knee lift",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs", "glutes", "lower body"],
+    "difficulty": 2,
+    "image_name": "neat knee lift.png",
+    "video_filename": "neat knee lift.mp4",
+    "equipment": null
+  },
+  {
+    "id": 96,
+    "name": "Nordic Hamstring Curl",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "glutes", "lower body"],
+    "difficulty": 2,
+    "image_name": "Nordic Hamstring Curl.png",
+    "video_filename": "Nordic Hamstring Curl.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 97,
+    "name": "oblique knee to elbow lift",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "glutes", "abs", "lower body"],
+    "difficulty": 2,
+    "image_name": "oblique knee to elbow lift.png",
+    "video_filename": "oblique knee to elbow lift.mp4",
+    "equipment": null
+  },
+  {
+    "id": 98,
+    "name": "pelvic rotation",
+    "description": "beginner",
+    "muscle_group": ["pelvic"],
+    "difficulty": 1,
+    "image_name": "pelvic rotation .png",
+    "video_filename": "pelvic rotation .mp4",
+    "equipment": null
+  },
+  {
+    "id": 99,
+    "name": "pendulum",
+    "description": "average",
+    "muscle_group": ["arms", "shoulder", "calves", "neck", "upper body", "lower body", "full body", "core"],
+    "difficulty": 2,
+    "image_name": "pendulum.png",
+    "video_filename": "pendulum.mp4",
+    "equipment": null
+  },
+  {
+    "id": 100,
+    "name": "plank with body rotations",
+    "description": "average",
+    "muscle_group": ["back", "glutes", "triceps", "chest"],
+    "difficulty": 2,
+    "image_name": "plank with body rotations.png",
+    "video_filename": "plank with body rotations.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 101,
+    "name": "punches forward",
+    "description": "beginners",
+    "muscle_group": ["arms", "chest"],
+    "difficulty": 1,
+    "image_name": "punches forward.png",
+    "video_filename": "punches forward.mp4",
+    "equipment": null
+  },
+  {
+    "id": 102,
+    "name": "push-ups from the knees",
+    "description": "average",
+    "muscle_group": ["triceps", "triceps", "chest"],
+    "difficulty": 2,
+    "image_name": "push-ups from the knees.png",
+    "video_filename": "push-ups from the knees.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 103,
+    "name": "push-ups",
+    "description": "advanced",
+    "muscle_group": ["triceps", "triceps", "chest"],
+    "difficulty": 3,
+    "image_name": "push-ups.png",
+    "video_filename": "push-ups.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 104,
+    "name": "light side lunges",
+    "description": "average",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "legs", "stretching", "full body", "upper body", "core"],
+    "difficulty": 2,
+    "image_name": "light side lunges.png",
+    "video_filename": "light side lunges.mp4",
+    "equipment": null
+  },
+  {
+    "id": 106,
+    "name": "reverse elbow plank",
+    "description": "average",
+    "muscle_group": ["back", "abs", "arms", "calves", "thighs", "obligues", "neck", "plank"],
+    "difficulty": 2,
+    "image_name": "reverse elbow plank.png",
+    "video_filename": "reverse elbow plank.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 107,
+    "name": "running in place",
+    "description": "average",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "legs", "full body", "upper body", "core"],
+    "difficulty": 2,
+    "image_name": "running in place.png",
+    "video_filename": "running in place.mp4",
+    "equipment": null
+  },
+  {
+    "id": 108,
+    "name": "scissors with hands in front of you",
+    "description": "beginner",
+    "muscle_group": ["arms", "upper body"],
+    "difficulty": 1,
+    "image_name": "scissors with hands in front of you.png",
+    "video_filename": "scissors with hands in front of you.mp4",
+    "equipment": null
+  },
+  {
+    "id": 109,
+    "name": "seated body raises",
+    "description": "average",
+    "muscle_group": ["arms", "abs", "upper body", "neck"],
+    "difficulty": 2,
+    "image_name": "seated body raises.png",
+    "video_filename": "seated body raises.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 110,
+    "name": "shin-slapping run",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "legs", "full body", "upper body", "core"],
+    "difficulty": 3,
+    "image_name": "shin-slapping run.png",
+    "video_filename": "shin-slapping run.mp4",
+    "equipment": null
+  },
+  {
+    "id": 111,
+    "name": "shoulders with hands clasped behind the back",
+    "description": "beginner",
+    "muscle_group": ["arms", "back"],
+    "difficulty": 1,
+    "image_name": "shoulders with hands clasped behind the back.png",
+    "video_filename": "shoulders with hands clasped behind the back.mp4",
+    "equipment": null
+  },
+  {
+    "id": 112,
+    "name": "side knee raise",
+    "description": "average",
+    "muscle_group": ["arms", "calves", "thighs", "glutes", "abs", "lower body"],
+    "difficulty": 2,
+    "image_name": "side knee raise.png",
+    "video_filename": "side knee raise.mp4",
+    "equipment": null
+  },
+  {
+    "id": 113,
+    "name": "side lunge with floor touch",
+    "description": "advanced",
+    "muscle_group": ["coordination", "back", "abs", "arms", "calves", "thighs", "lower body", "full body", "glutes", "upper body", "glutes", "core"],
+    "difficulty": 4,
+    "image_name": "side lunge with floor touch.png",
+    "video_filename": "side lunge with floor touch.mp4",
+    "equipment": null
+  },
+  {
+    "id": 114,
+    "name": "side lunges",
+    "description": "advanced",
+    "muscle_group": ["calves", "thighs", "arms", "core", "upper body", "lower body", "full body", "glutes"],
+    "difficulty": 3,
+    "image_name": "side lunges.png",
+    "video_filename": "side lunges.mp4",
+    "equipment": null
+  },
+  {
+    "id": 115,
+    "name": "side plank with hip drop",
+    "description": "advanced",
+    "muscle_group": ["back", "abs", "arms", "calves", "thighs", "shoulder", "core", "plank"],
+    "difficulty": 3,
+    "image_name": "side plank with hip drop.png",
+    "video_filename": "side plank with hip drop.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 116,
+    "name": "side transitions with arm lifts",
+    "description": "average",
+    "muscle_group": ["coordination", "back", "arms", "core", "upper body", "lower body", "full body", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "side transitions with arm lifts.png",
+    "video_filename": "side transitions with arm lifts.mp4",
+    "equipment": null
+  },
+  {
+    "id": 117,
+    "name": "side transitions with arm movement",
+    "description": "advanced",
+    "muscle_group": ["coordination", "arms", "calves", "glutes", "thighs", "upper budy", "lower body", "full body", "back", "core"],
+    "difficulty": 3,
+    "image_name": "side transitions with arm movement.png",
+    "video_filename": "side transitions with arm movement.mp4",
+    "equipment": null
+  },
+  {
+    "id": 118,
+    "name": "side v-shaped pleats",
+    "description": "average",
+    "muscle_group": ["back", "abs", "arms", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "side v-shaped pleats.png",
+    "video_filename": "side v-shaped pleats.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 119,
+    "name": "single bike",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "lower body", "triceps"],
+    "difficulty": 2,
+    "image_name": "single bike.png",
+    "video_filename": "single bike.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 120,
+    "name": "Single-Leg Glute Bridge with Crunch",
+    "description": "average",
+    "muscle_group": ["calves", "thighs", "glutes", "lower body", "arms", "neck"],
+    "difficulty": 2,
+    "image_name": "Single-Leg Glute Bridge with Crunch.png",
+    "video_filename": "Single-Leg Glute Bridge with Crunch.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 121,
+    "name": "spreading arms to the sides",
+    "description": "beginner",
+    "muscle_group": ["arms", "neck"],
+    "difficulty": 1,
+    "image_name": "spreading arms to the sides.png",
+    "video_filename": "spreading arms to the sides.mp4",
+    "equipment": null
+  },
+  {
+    "id": 122,
+    "name": "Standing Back Extension",
+    "description": "beginner",
+    "muscle_group": ["abs"],
+    "difficulty": 1,
+    "image_name": "Standing Back Extension.png",
+    "video_filename": "Standing Back Extension.mp4",
+    "equipment": null
+  },
+  {
+    "id": 123,
+    "name": "standing crunches with straight arms",
+    "description": "beginner",
+    "muscle_group": ["arms", "stretching", "abs"],
+    "difficulty": 1,
+    "image_name": "standing crunches with straight arms.png",
+    "video_filename": "standing crunches with straight arms.mp4",
+    "equipment": null
+  },
+  {
+    "id": 124,
+    "name": "standing hip lifts",
+    "description": "beginner",
+    "muscle_group": ["calves", "thighs"],
+    "difficulty": 1,
+    "image_name": "standing hip lifts.png",
+    "video_filename": "standing hip lifts.mp4",
+    "equipment": null
+  },
+  {
+    "id": 125,
+    "name": "standing knee to elbow raises",
+    "description": "average",
+    "muscle_group": ["arms", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "standing knee to elbow raises.png",
+    "video_filename": "standing knee to elbow raises.mp4",
+    "equipment": null
+  },
+  {
+    "id": 126,
+    "name": "standing leg swings to the side",
+    "description": "average",
+    "muscle_group": ["calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "standing leg swings to the side.png",
+    "video_filename": "standing leg swings to the side.mp4",
+    "equipment": null
+  },
+  {
+    "id": 127,
+    "name": "standing show of hands",
+    "description": "beginner",
+    "muscle_group": ["arms"],
+    "difficulty": 1,
+    "image_name": "standing show of hands.png",
+    "video_filename": "standing show of hands.mp4",
+    "equipment": null
+  },
+  {
+    "id": 128,
+    "name": "Standing Side Bend",
+    "description": "beginner",
+    "muscle_group": ["pelvic"],
+    "difficulty": 1,
+    "image_name": "Standing Side Bend.png",
+    "video_filename": "Standing Side Bend.mp4",
+    "equipment": null
+  },
+  {
+    "id": 129,
+    "name": "standing side twists",
+    "description": "beginner",
+    "muscle_group": ["back", "arms"],
+    "difficulty": 1,
+    "image_name": "standing side twists.png",
+    "video_filename": "standing side twists.mp4",
+    "equipment": null
+  },
+  {
+    "id": 130,
+    "name": "standing trying to hands to heels",
+    "description": "beginner",
+    "muscle_group": ["abs", "arms"],
+    "difficulty": 1,
+    "image_name": "standing trying to hands to heels.png",
+    "video_filename": "standing trying to hands to heels.mp4",
+    "equipment": null
+  },
+  {
+    "id": 131,
+    "name": "standing with knee lift.mp4",
+    "description": "average",
+    "muscle_group": ["calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "standing with knee lift.png",
+    "video_filename": "standing with knee lift.mp4",
+    "equipment": null
+  },
+  {
+    "id": 132,
+    "name": "Step-jack",
+    "description": "average",
+    "muscle_group": ["arms", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "Step-jack.png",
+    "video_filename": "Step-jack.mp4",
+    "equipment": null
+  },
+  {
+    "id": 133,
+    "name": "sumo squats ",
+    "description": "advanced",
+    "muscle_group": ["arms", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "sumo squats .png",
+    "video_filename": "sumo squats .mp4",
+    "equipment": null
+  },
+  {
+    "id": 134,
+    "name": "sumo squats with arm raises",
+    "description": "advanced",
+    "muscle_group": ["arms", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "sumo squats with arm raises.png",
+    "video_filename": "sumo squats with arm raises.mp4",
+    "equipment": null
+  },
+  {
+    "id": 135,
+    "name": "swing your legs while lying down",
+    "description": "average",
+    "muscle_group": ["abs", "calves", "thighs"],
+    "difficulty": 2,
+    "image_name": "swing your legs while lying down.png",
+    "video_filename": "swing your legs while lying down.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 136,
+    "name": "torso tilts to the side",
+    "description": "average",
+    "muscle_group": ["arms", "upper body"],
+    "difficulty": 2,
+    "image_name": "torso tilts to the side.png",
+    "video_filename": "torso tilts to the side.mp4",
+    "equipment": null
+  },
+  {
+    "id": 137,
+    "name": "twist",
+    "description": "advanced",
+    "muscle_group": ["abs", "arms"],
+    "difficulty": 3,
+    "image_name": "twist.png",
+    "video_filename": "twist.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 138,
+    "name": "twisting bike",
+    "description": "advanced",
+    "muscle_group": ["abs", "calves", "thighs", "glutes", "arms"],
+    "difficulty": 3,
+    "image_name": "twisting bike.png",
+    "video_filename": "twisting bike.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 139,
+    "name": "V-up",
+    "description": "advanced",
+    "muscle_group": ["abs", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "V-up.png",
+    "video_filename": "V-up.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 140,
+    "name": "vertical scissors in elbow support",
+    "description": "advanced",
+    "muscle_group": ["abs", "calves", "thighs"],
+    "difficulty": 3,
+    "image_name": "vertical scissors in elbow support.png",
+    "video_filename": "vertical scissors in elbow support.mp4",
+    "equipment": ["mat"]
+  },
+  {
+    "id": 141,
+    "name": "vertical standing press",
+    "description": "average",
+    "muscle_group": ["shoulder", "neck", "upper body"],
+    "difficulty": 1,
+    "image_name": "vertical standing press.png",
+    "video_filename": "vertical standing press.mp4",
+    "equipment": null
+  }
+]

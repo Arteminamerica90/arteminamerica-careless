@@ -1,0 +1,1667 @@
+[
+  {
+    "idx": 132,
+    "id": 143,
+    "name": "ADVANCED BENT KNEE LEG RAISES",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "calves",
+      "thighs",
+      "glutes",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "ADVANCED BENT KNEE LEG RAISES.png",
+    "video_filename": "ADVANCED BENT KNEE LEG RAISES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 133,
+    "id": 144,
+    "name": "ALTERNATING JUMP LUNGES",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "calves",
+      "thighs",
+      "glutes",
+      "lower body"
+    ],
+    "difficulty": 4,
+    "image_name": "ALTERNATING JUMP LUNGES.png",
+    "video_filename": "ALTERNATING JUMP LUNGES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 134,
+    "id": 145,
+    "name": "ASSISTED CROSS DIAMOND PUSH-UPS 1",
+    "description": "advanced",
+    "muscle_group": [
+      "triceps",
+      "triceps",
+      "chest"
+    ],
+    "difficulty": 3,
+    "image_name": "ASSISTED CROSS DIAMOND PUSH-UPS 1.png",
+    "video_filename": "ASSISTED CROSS DIAMOND PUSH-UPS 1.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 135,
+    "id": 146,
+    "name": "ASSISTED CROSS DIAMOND PUSH-UPS",
+    "description": "advanced",
+    "muscle_group": [
+      "triceps",
+      "triceps",
+      "chest"
+    ],
+    "difficulty": 3,
+    "image_name": "ASSISTED CROSS DIAMOND PUSH-UPS.png",
+    "video_filename": "ASSISTED CROSS DIAMOND PUSH-UPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 136,
+    "id": 147,
+    "name": "ASSISTED FOREARM PUSH-UPS",
+    "description": "average",
+    "muscle_group": [
+      "coordination",
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core"
+    ],
+    "difficulty": 3,
+    "image_name": "ASSISTED FOREARM PUSH-UPS.png",
+    "video_filename": "ASSISTED FOREARM PUSH-UPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 137,
+    "id": 148,
+    "name": "BACKWARD LUNGES",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "thighs",
+      "glutes",
+      "lower body"
+    ],
+    "difficulty": 3,
+    "image_name": "BACKWARD LUNGES.png",
+    "video_filename": "BACKWARD LUNGES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 138,
+    "id": 149,
+    "name": "BENT KNEE CALF RAISES",
+    "description": "beginner",
+    "muscle_group": [
+      "coordination",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 1,
+    "image_name": "BENT KNEE CALF RAISES.png",
+    "video_filename": "BENT KNEE CALF RAISES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 139,
+    "id": 150,
+    "name": "BENT OVER ROW WITH AN EXPANDER",
+    "description": "average",
+    "muscle_group": [
+      "triceps",
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back"
+    ],
+    "difficulty": 3,
+    "image_name": "BENT OVER ROW WITH AN EXPANDER.png",
+    "video_filename": "BENT OVER ROW WITH AN EXPANDER.mp4",
+    "equipment": [
+      "jump rope",
+      "mat"
+    ]
+  },
+  {
+    "idx": 140,
+    "id": 151,
+    "name": "BICEPS CURL",
+    "description": "average",
+    "muscle_group": [
+      "biceps"
+    ],
+    "difficulty": 2,
+    "image_name": "BICEPS CURL.png",
+    "video_filename": "BICEPS CURL.mp4",
+    "equipment": [
+      "jump rope",
+      "mat"
+    ]
+  },
+  {
+    "idx": 141,
+    "id": 152,
+    "name": "BICYCLES",
+    "description": "advanced",
+    "muscle_group": [
+      "abs",
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 3,
+    "image_name": "BICYCLES.png",
+    "video_filename": "BICYCLES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 142,
+    "id": 153,
+    "name": "BOAT POSE",
+    "description": "advanced",
+    "muscle_group": [
+      "coordination",
+      "abs",
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 3,
+    "image_name": "BOAT POSE.png",
+    "video_filename": "BOAT POSE.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 143,
+    "id": 154,
+    "name": "BURPEES",
+    "description": "advanced",
+    "muscle_group": [
+      "coordination",
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core"
+    ],
+    "difficulty": 4,
+    "image_name": "BURPEES.png",
+    "video_filename": "BURPEES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 144,
+    "id": 155,
+    "name": "CHILDS POSE",
+    "description": "beginner",
+    "muscle_group": [
+      "stretching"
+    ],
+    "difficulty": 1,
+    "image_name": "CHILDS POSE.png",
+    "video_filename": "CHILDS POSE.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 145,
+    "id": 156,
+    "name": "CORE SCISSORS",
+    "description": "advanced",
+    "muscle_group": [
+      "abs",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 3,
+    "image_name": "CORE SCISSORS.png",
+    "video_filename": "CORE SCISSORS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 146,
+    "id": 157,
+    "name": "CROSS BODY CRUNCHES",
+    "description": "average",
+    "muscle_group": [
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "CROSS BODY CRUNCHES.png",
+    "video_filename": "CROSS BODY CRUNCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 147,
+    "id": 158,
+    "name": "CROSSOVER RAISED KNEE HEEL TOUCHES",
+    "description": "average",
+    "muscle_group": [
+      "coordination",
+      "arms",
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core"
+    ],
+    "difficulty": 2,
+    "image_name": "CROSSOVER RAISED KNEE HEEL TOUCHES.png",
+    "video_filename": "CROSSOVER RAISED KNEE HEEL TOUCHES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 148,
+    "id": 159,
+    "name": "CRUNCHES",
+    "description": "beginner",
+    "muscle_group": [
+      "abs",
+      "obliques"
+    ],
+    "difficulty": 2,
+    "image_name": "CRUNCHES 1.png",
+    "video_filename": "CRUNCHES 1.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 149,
+    "id": 160,
+    "name": "DIAMOND PUSH-UPS",
+    "description": "advanced",
+    "muscle_group": [
+      "triceps",
+      "chest",
+      "upper body"
+    ],
+    "difficulty": 3,
+    "image_name": "DIAMOND PUSH-UPS.png",
+    "video_filename": "DIAMOND PUSH-UPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 150,
+    "id": 161,
+    "name": "DONKEY KICKS",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "back"
+    ],
+    "difficulty": 2,
+    "image_name": "DONKEY KICKS.png",
+    "video_filename": "DONKEY KICKS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 151,
+    "id": 162,
+    "name": "DYNAMIC OVERHEAD ARM CIRCLES",
+    "description": "begiiner",
+    "muscle_group": [
+      "stretching"
+    ],
+    "difficulty": 1,
+    "image_name": "DYNAMIC OVERHEAD ARM CIRCLES.png",
+    "video_filename": "DYNAMIC OVERHEAD ARM CIRCLES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 152,
+    "id": 163,
+    "name": "ELBOW-TO-KNEE CRUNCHES IN A SQUAT",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "obliques"
+    ],
+    "difficulty": 2,
+    "image_name": "ELBOW-TO-KNEE CRUNCHES IN A SQUAT.png",
+    "video_filename": "ELBOW-TO-KNEE CRUNCHES IN A SQUAT.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 153,
+    "id": 164,
+    "name": "ELEVATED LEG CRUNCHES",
+    "description": "average",
+    "muscle_group": [
+      "neck",
+      "arms"
+    ],
+    "difficulty": 2,
+    "image_name": "ELEVATED LEG CRUNCHES.png",
+    "video_filename": "ELEVATED LEG CRUNCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 154,
+    "id": 165,
+    "name": "ELEVATED STANDING TOE TOUCH",
+    "description": "beginner",
+    "muscle_group": [
+      "arms",
+      "full body"
+    ],
+    "difficulty": 1,
+    "image_name": "ELEVATED STANDING TOE TOUCH.png",
+    "video_filename": "ELEVATED STANDING TOE TOUCH.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 155,
+    "id": 166,
+    "name": "FIRE HYDRANTS",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "back",
+      "obliques"
+    ],
+    "difficulty": 2,
+    "image_name": "FIRE HYDRANTS.png",
+    "video_filename": "FIRE HYDRANTS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 156,
+    "id": 167,
+    "name": "FORWARD LEAPS",
+    "description": "average",
+    "muscle_group": [
+      "coordination",
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core"
+    ],
+    "difficulty": 2,
+    "image_name": "FORWARD LEAPS.png",
+    "video_filename": "FORWARD LEAPS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 157,
+    "id": 168,
+    "name": "FORWARD LUNGES",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "FORWARD LUNGES.png",
+    "video_filename": "FORWARD LUNGES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 158,
+    "id": 169,
+    "name": "FULL EXTENSION PLANK",
+    "description": "average",
+    "muscle_group": [
+      "triceps",
+      "chest",
+      "upper body"
+    ],
+    "difficulty": 2,
+    "image_name": "FULL EXTENSION PLANK.png",
+    "video_filename": "FULL EXTENSION PLANK.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 159,
+    "id": 170,
+    "name": "GLUTE BRIDGES",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "GLUTE BRIDGES.png",
+    "video_filename": "GLUTE BRIDGES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 160,
+    "id": 171,
+    "name": "GLUTE KICKBACKS",
+    "description": "average",
+    "muscle_group": [
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "GLUTE KICKBACKS.png",
+    "video_filename": "GLUTE KICKBACKS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 161,
+    "id": 172,
+    "name": "HEEL TOUCHES",
+    "description": "beginner",
+    "muscle_group": [
+      "obliques",
+      "arms"
+    ],
+    "difficulty": 1,
+    "image_name": "HEEL TOUCHES.png",
+    "video_filename": "HEEL TOUCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 162,
+    "id": 173,
+    "name": "HELLO DARLINGS",
+    "description": "average",
+    "muscle_group": [
+      "obliques",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "HELLO DARLINGS.png",
+    "video_filename": "HELLO DARLINGS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 163,
+    "id": 174,
+    "name": "HIGH KNEE",
+    "description": "advantage",
+    "muscle_group": [
+      "legs",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "core"
+    ],
+    "difficulty": 2,
+    "image_name": "HIGH KNEE.png",
+    "video_filename": "HIGH KNEE.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 164,
+    "id": 175,
+    "name": "HIGH-FIVE CRUNCHES",
+    "description": "beginner",
+    "muscle_group": [
+      "arms",
+      "abs"
+    ],
+    "difficulty": 1,
+    "image_name": "HIGH-FIVE CRUNCHES.png",
+    "video_filename": "HIGH-FIVE CRUNCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 165,
+    "id": 176,
+    "name": "HIP ABDUCTION",
+    "description": "average",
+    "muscle_group": [
+      "obliques",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "HIP ABDUCTION.png",
+    "video_filename": "HIP ABDUCTION.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 166,
+    "id": 177,
+    "name": "IRON CHAIR",
+    "description": "advanced",
+    "muscle_group": [
+      "arms",
+      "legs",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "core"
+    ],
+    "difficulty": 3,
+    "image_name": "IRON CHAIR.png",
+    "video_filename": "IRON CHAIR.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 167,
+    "id": 178,
+    "name": "JUMP SQUATS",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "arms",
+      "back",
+      "core"
+    ],
+    "difficulty": 4,
+    "image_name": "JUMP SQUATS.png",
+    "video_filename": "JUMP SQUATS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 168,
+    "id": 179,
+    "name": "JUMPING JACKS",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "arms",
+      "back",
+      "core"
+    ],
+    "difficulty": 3,
+    "image_name": "JUMPING JACKS.png",
+    "video_filename": "JUMPING JACKS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 169,
+    "id": 180,
+    "name": "JUMPING LUNGES",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "arms",
+      "back",
+      "core"
+    ],
+    "difficulty": 4,
+    "image_name": "JUMPING LUNGES.png",
+    "video_filename": "JUMPING LUNGES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 170,
+    "id": 181,
+    "name": "LATERAL JUMP",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "full body",
+      "obliques",
+      "back",
+      "core",
+      "pelvic"
+    ],
+    "difficulty": 2,
+    "image_name": "LATERAL JUMP.png",
+    "video_filename": "LATERAL JUMP.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 171,
+    "id": 182,
+    "name": "LATERAL LUNGES",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "arms",
+      "back",
+      "core"
+    ],
+    "difficulty": 2,
+    "image_name": "LATERAL LUNGES.png",
+    "video_filename": "LATERAL LUNGES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 172,
+    "id": 183,
+    "name": "LATERAL WALK",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "full body",
+      "obliques",
+      "back",
+      "core",
+      "pelvic",
+      "arms",
+      "biceps",
+      "triceps"
+    ],
+    "difficulty": 2,
+    "image_name": "LATERAL WALK.png",
+    "video_filename": "LATERAL WALK.mp4",
+    "equipment": [
+      "jump rope",
+      "mat"
+    ]
+  },
+  {
+    "idx": 173,
+    "id": 184,
+    "name": "LYING GLUTE STRETCH",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "LYING GLUTE STRETCH.png",
+    "video_filename": "LYING GLUTE STRETCH.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 174,
+    "id": 185,
+    "name": "LYING HAMSTRING STRETCH",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "LYING HAMSTRING STRETCH.png",
+    "video_filename": "LYING HAMSTRING STRETCH.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 175,
+    "id": 186,
+    "name": "LYING LEG RAISES",
+    "description": "advanced",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 3,
+    "image_name": "LYING LEG RAISES.png",
+    "video_filename": "LYING LEG RAISES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 176,
+    "id": 187,
+    "name": "LYING LEG ROTATIONS",
+    "description": "advanced",
+    "muscle_group": [
+      "abs",
+      "obliques",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 3,
+    "image_name": "LYING LEG ROTATIONS.png",
+    "video_filename": "LYING LEG ROTATIONS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 177,
+    "id": 188,
+    "name": "MODIFIED KNEE RAISES",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "MODIFIED KNEE RAISES.png",
+    "video_filename": "MODIFIED KNEE RAISES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 178,
+    "id": 189,
+    "name": "MODIFIED SQUATS",
+    "description": "advanced",
+    "muscle_group": [
+      "coordination",
+      "stretching",
+      "abs",
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core"
+    ],
+    "difficulty": 3,
+    "image_name": "MODIFIED SQUATS.png",
+    "video_filename": "MODIFIED SQUATS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 179,
+    "id": 190,
+    "name": "MOUNTAIN CLIMBERS",
+    "description": "pro",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "full body",
+      "obliques",
+      "back",
+      "core",
+      "pelvic",
+      "arms"
+    ],
+    "difficulty": 5,
+    "image_name": "MOUNTAIN CLIMBERS.png",
+    "video_filename": "MOUNTAIN CLIMBERS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 180,
+    "id": 191,
+    "name": "OBLIQUE CRUNCHES",
+    "description": "advanced",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "obliques",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "OBLIQUE CRUNCHES.png",
+    "video_filename": "OBLIQUE CRUNCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 181,
+    "id": 192,
+    "name": "ONE ARM LATERAL PUSH-UPS",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "obliques",
+      "thighs",
+      "upper body"
+    ],
+    "difficulty": 2,
+    "image_name": "ONE ARM LATERAL PUSH-UPS.png",
+    "video_filename": "ONE ARM LATERAL PUSH-UPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 182,
+    "id": 193,
+    "name": "ONE ARM PLANK WITH KNEE TOUCHES",
+    "description": "advanced",
+    "muscle_group": [
+      "coordination",
+      "calves",
+      "glutes",
+      "thighs",
+      "full body",
+      "back",
+      "core"
+    ],
+    "difficulty": 3,
+    "image_name": "ONE ARM PLANK WITH KNEE TOUCHES.png",
+    "video_filename": "ONE ARM PLANK WITH KNEE TOUCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 183,
+    "id": 194,
+    "name": "PLANK JACKS",
+    "description": "pro",
+    "muscle_group": [
+      "coordination",
+      "abs",
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "feet",
+      "arms",
+      "shoulders",
+      "plank"
+    ],
+    "difficulty": 5,
+    "image_name": "PLANK JACKS.png",
+    "video_filename": "PLANK JACKS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 184,
+    "id": 195,
+    "name": "PLANK SHOULDER TAPS",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "feet",
+      "arms",
+      "shoulders",
+      "plank"
+    ],
+    "difficulty": 3,
+    "image_name": "PLANK SHOULDER TAPS.png",
+    "video_filename": "PLANK SHOULDER TAPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 185,
+    "id": 196,
+    "name": "PLANK WALKUPS",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "feet",
+      "arms",
+      "shoulders",
+      "plank"
+    ],
+    "difficulty": 4,
+    "image_name": "PLANK WALKUPS.png",
+    "video_filename": "PLANK WALKUPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 186,
+    "id": 197,
+    "name": "PLANK",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "feet",
+      "arms",
+      "shoulders",
+      "plank"
+    ],
+    "difficulty": 3,
+    "image_name": "PLANK.png",
+    "video_filename": "PLANK.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 187,
+    "id": 198,
+    "name": "PRISONER JUMP SQUATS",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "PRISONER JUMP SQUATS.png",
+    "video_filename": "PRISONER JUMP SQUATS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 188,
+    "id": 199,
+    "name": "RAISED LEG CRUNCHES",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "RAISED LEG CRUNCHES.png",
+    "video_filename": "RAISED LEG CRUNCHES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 189,
+    "id": 200,
+    "name": "REST",
+    "description": "REST",
+    "muscle_group": [],
+    "difficulty": 0,
+    "image_name": "REST.png",
+    "video_filename": "REST.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 190,
+    "id": 201,
+    "name": "REVERSE HIP THRUSTS",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "REVERSE HIP THRUSTS.png",
+    "video_filename": "REVERSE HIP THRUSTS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 191,
+    "id": 202,
+    "name": "REVERSED LUNGES",
+    "description": "advanced",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "abs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "REVERSED LUNGES.png",
+    "video_filename": "REVERSED LUNGES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 192,
+    "id": 203,
+    "name": "SHOULDER CIRCLES",
+    "description": "beginner",
+    "muscle_group": [
+      "shoulders",
+      "upper body"
+    ],
+    "difficulty": 1,
+    "image_name": "SHOULDER CIRCLES.png",
+    "video_filename": "SHOULDER CIRCLES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 193,
+    "id": 204,
+    "name": "SIDE KNEE HEEL TOUCHES",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "abs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "SIDE KNEE HEEL TOUCHES.png",
+    "video_filename": "SIDE KNEE HEEL TOUCHES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 194,
+    "id": 205,
+    "name": "SIDE LEG RAISES",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "lower body",
+      "back"
+    ],
+    "difficulty": 2,
+    "image_name": "SIDE LEG RAISES.png",
+    "video_filename": "SIDE LEG RAISES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 195,
+    "id": 206,
+    "name": "SIDE PLANK WITH HIP DIPS",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "lower body",
+      "back",
+      "core",
+      "plank"
+    ],
+    "difficulty": 2,
+    "image_name": "SIDE PLANK WITH HIP DIPS.png",
+    "video_filename": "SIDE PLANK WITH HIP DIPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 196,
+    "id": 207,
+    "name": "SIDE PLANK",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "obliques",
+      "thighs",
+      "lower body",
+      "back",
+      "core",
+      "plank"
+    ],
+    "difficulty": 2,
+    "image_name": "SIDE PLANK.png",
+    "video_filename": "SIDE PLANK.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 197,
+    "id": 208,
+    "name": "SIT-UPS",
+    "description": "average",
+    "muscle_group": [
+      "abs",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "SIT-UPS.png",
+    "video_filename": "SIT-UPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 198,
+    "id": 209,
+    "name": "SKIPPING IMITATION",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "abs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 2,
+    "image_name": "SKIPPING IMITATION.png",
+    "video_filename": "SKIPPING IMITATION.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 199,
+    "id": 210,
+    "name": "SNAKE STRETCH",
+    "description": "beginner",
+    "muscle_group": [
+      "stretching"
+    ],
+    "difficulty": 1,
+    "image_name": "SNAKE STRETCH.png",
+    "video_filename": "SNAKE STRETCH.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 200,
+    "id": 211,
+    "name": "SPIDERMAN STEPS",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "SPIDERMAN STEPS.png",
+    "video_filename": "SPIDERMAN STEPS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 201,
+    "id": 212,
+    "name": "SQUAT",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "SQUAT.png",
+    "video_filename": "SQUAT.mp4",
+    "equipment": [
+      "jump rope",
+      "mat"
+    ]
+  },
+  {
+    "idx": 202,
+    "id": 213,
+    "name": "STANDING KNEE FLEXIONS",
+    "description": "beginner",
+    "muscle_group": [
+      "calves"
+    ],
+    "difficulty": 1,
+    "image_name": "STANDING KNEE FLEXIONS.png",
+    "video_filename": "STANDING KNEE FLEXIONS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 203,
+    "id": 214,
+    "name": "STANDING LATS STRETCH",
+    "description": "average",
+    "muscle_group": [
+      "arms",
+      "upper body"
+    ],
+    "difficulty": 2,
+    "image_name": "STANDING LATS STRETCH.png",
+    "video_filename": "STANDING LATS STRETCH.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 204,
+    "id": 215,
+    "name": "STANDING QUADRICEPS STRETCH",
+    "description": "beginner",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 1,
+    "image_name": "STANDING QUADRICEPS STRETCH.png",
+    "video_filename": "STANDING QUADRICEPS STRETCH.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 205,
+    "id": 216,
+    "name": "STANDING TOE TOUCH",
+    "description": "average",
+    "muscle_group": [
+      "stretching",
+      "arms",
+      "upper body"
+    ],
+    "difficulty": 2,
+    "image_name": "STANDING TOE TOUCH.png",
+    "video_filename": "STANDING TOE TOUCH.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 206,
+    "id": 217,
+    "name": "STAR JUMPS",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "STAR JUMPS.png",
+    "video_filename": "STAR JUMPS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 207,
+    "id": 218,
+    "name": "STRAIGHT ARMS FRONT SQUAT",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 4,
+    "image_name": "STRAIGHT ARMS FRONT SQUAT.png",
+    "video_filename": "STRAIGHT ARMS FRONT SQUAT.mp4",
+    "equipment": [
+      "jump rope",
+      "mat"
+    ]
+  },
+  {
+    "idx": 208,
+    "id": 219,
+    "name": "SUMO SQUATS",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "SUMO SQUATS.png",
+    "video_filename": "SUMO SQUATS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 209,
+    "id": 220,
+    "name": "SUPERMAN RAISES",
+    "description": "average",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 2,
+    "image_name": "SUPERMAN RAISES.png",
+    "video_filename": "SUPERMAN RAISES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 210,
+    "id": 221,
+    "name": "SWINGING HIGH KICKS",
+    "description": "advanced",
+    "muscle_group": [
+      "stretching",
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body"
+    ],
+    "difficulty": 2,
+    "image_name": "SWINGING HIGH KICKS.png",
+    "video_filename": "SWINGING HIGH KICKS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 211,
+    "id": 222,
+    "name": "TWISTS",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "abs",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "TWISTS.png",
+    "video_filename": "TWISTS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 212,
+    "id": 223,
+    "name": "UNILATERAL CALF RAISES",
+    "description": "beginner",
+    "muscle_group": [
+      "feet"
+    ],
+    "difficulty": 1,
+    "image_name": "UNILATERAL CALF RAISES.png",
+    "video_filename": "UNILATERAL CALF RAISES.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 213,
+    "id": 224,
+    "name": "UNILATERAL LYING LEG RAISES",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "abs"
+    ],
+    "difficulty": 3,
+    "image_name": "UNILATERAL LYING LEG RAISES.png",
+    "video_filename": "UNILATERAL LYING LEG RAISES.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 214,
+    "id": 225,
+    "name": "UP AND OVER",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "back",
+      "core",
+      "arms"
+    ],
+    "difficulty": 2,
+    "image_name": "UP AND OVER.png",
+    "video_filename": "UP AND OVER.mp4",
+    "equipment": [
+      "mat"
+    ]
+  },
+  {
+    "idx": 215,
+    "id": 226,
+    "name": "UPRIGHT ROW",
+    "description": "advantage",
+    "muscle_group": [
+      "biceps",
+      "triiceps"
+    ],
+    "difficulty": 3,
+    "image_name": "UPRIGHT ROW.png",
+    "video_filename": "UPRIGHT ROW.mp4",
+    "equipment": [
+      "jump rope",
+      "mat"
+    ]
+  },
+  {
+    "idx": 216,
+    "id": 227,
+    "name": "VERTICAL CALF JUMPS",
+    "description": "beginner",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "upper budy",
+      "lower body",
+      "full body",
+      "back"
+    ],
+    "difficulty": 2,
+    "image_name": "VERTICAL CALF JUMPS.png",
+    "video_filename": "VERTICAL CALF JUMPS.mp4",
+    "equipment": null
+  },
+  {
+    "idx": 217,
+    "id": 228,
+    "name": "VERTICAL CORE SCISSORS",
+    "description": "advantage",
+    "muscle_group": [
+      "calves",
+      "glutes",
+      "thighs",
+      "lower body",
+      "abs",
+      "arms"
+    ],
+    "difficulty": 3,
+    "image_name": "VERTICAL CORE SCISSORS.png",
+    "video_filename": "VERTICAL CORE SCISSORS.mp4",
+    "equipment": [
+      "mat"
+    ]
+  }
+]

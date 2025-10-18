@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "depositphotos_491986034-stock-photo-scenic-view-white-caucasian-girl.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
