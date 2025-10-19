@@ -112,12 +112,11 @@ class SubscriptionViewController: UIViewController {
     }
     
     @objc private func termsTapped() {
-        // !!! ВАЖНО: Замените "example.com/terms" на вашу реальную ссылку !!!
-        guard let url = URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/") else { return }
+        // Ссылка заменена на ту, которую вы указали
+        guard let url = URL(string: "https://useracquisitiontech.com") else { return }
         let safariVC = SFSafariViewController(url: url)
         present(safariVC, animated: true)
     }
-    
     @objc private func privacyTapped() {
         // !!! ВАЖНО: Замените "example.com/privacy" на вашу реальную ссылку !!!
         guard let url = URL(string: "https://www.freeprivacypolicy.com/live/965155a0-9e6b-4770-9842-83161a5b8109") else { return }
